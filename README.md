@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shruti 👋
 
-<!--
-**shrutimg/shrutimg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certifications
+- Cybersecurity Simulation – Forage  
+  [View Certificate](https://drive.google.com/file/d/1PUX_jeCCfcDtMxz6xbznsqo5VyB0E30U/view?usp=drivesdk)
 
-Here are some ideas to get you started:
+  - Cyber Job Simulation Deloitte- Forage
+    [View Certificate](https://drive.google.com/file/d/1Cbmk_G2MF5Y_-2nWqQi3torLoqswLc6R/view?usp=drivesdk).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Exploring cybersecurity, compliance, and project management  
+- Passionate about learning and growing my skills  
+
+## Projects
+- More coming soon!
