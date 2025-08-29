@@ -21,8 +21,21 @@
 
 
 ## About Me
-- Exploring cybersecurity, compliance, and project management  
-- Passionate about learning and growing my skills  
+- I'm a B.E. Graduate passionate about **AI Governance, Risk & Compliance (GRC)** and **AI Product Management**.
+-  My focus is on leveraging AI responsibly to drive **ethical, compliant, and data-driven solutions** in business and product domains.
+
+## Interests
+- AI Governance & Compliance  
+- Risk Assessment & Management  
+- Responsible AI & AI Ethics  
+- AI Product Strategy & Marketing
+
+## Skills
+- AI Governance & Compliance  
+- Risk Assessment & Management  
+- AI Product Management (Non-Coding)  
+- Business Analysis & Strategy  
+- Data Interpretation & Analytics  
 
 ## Projects
 - More coming soon!
