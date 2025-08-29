@@ -17,7 +17,7 @@
   [Certificate Link](https://learn.microsoft.com/api/achievements/share/en-us/shrutigotsurve-6819/NVUMZE5F?sharingId=5E874EA11D01D09E)
 
 - **Cybersecurity for Businesses – The Fundamental Edition**  
-  [Certificate Link](https://drive.google.com/file/d/18IxvrwvZg5X2UlMkZqRBYzYeOWyUwwE9/view?usp=drive_link)
+  [View Certificate](https://drive.google.com/file/d/18IxvrwvZg5X2UlMkZqRBYzYeOWyUwwE9/view?usp=drive_link)
 
 
 ## About Me
